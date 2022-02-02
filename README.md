@@ -15,9 +15,9 @@ Also the condecorate NFT, you have access to an optional incentive, a montly int
 
 If more than 70% of Admin members are in agreement, the new Honoris Admin have access to the next incentives:
 
-Inmediatly access to montly interest rate of the liquidity treasure in staking of polygon and stablecoins
+Inmediatly access to montly interest rate of the liquidity treasure in staking of polygon and stablecoins divided in all members
 
-5% of the total supply dedicated to support divided in twelve months for all members
+5% of the total supply dedicated to support divided in twelve months for all Admin members
 
 The admin state only lasts 3 months with reelection capability
 
@@ -28,6 +28,10 @@ The admin state only lasts 3 months with reelection capability
 There are voting process for:
 
 Choose new Honoris and Honoris Admin members
+
+Reelection of an Honoris Admin member for the another Admin Members
+
+If there are less than five members, reelection is automatic
 
 
 
