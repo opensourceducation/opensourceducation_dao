@@ -1,11 +1,14 @@
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/44916598?s=96&v=4" alt="opensourceducation dao"/>
+  Smart Contracts Protocol for create the DAO
 </p>
-Smart Contracts Protocol for create the DAO
+
 
 
 **OpensourceducationMembers**
+
 There are two types of members: 
+
 
 ## HONORIS: The members that after gain enough votes amount being a proposed member receive a non transfer NFT(ERC-721)
 

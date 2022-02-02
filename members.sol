@@ -21,6 +21,10 @@ contract OpensourceducationMembers {
     isMember[msg.sender] = true;
   }
 
+  function getMember(address member) public view {
+    return members[member]
+  }
+
   modifier isAMember(){
     require(isMember[msg.sender] == true, "This transaction require to a member to be succesfull");
     _;
