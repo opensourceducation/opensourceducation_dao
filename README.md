@@ -1,4 +1,6 @@
-# opensourceducation_dao
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/44916598?s=96&v=4" alt="opensourceducation dao"/>
+</p>
 Smart Contracts Protocol for create the DAO
 
 
@@ -21,7 +23,16 @@ Inmediatly access to montly interest rate of the liquidity treasure in staking o
 
 The admin state only lasts 3 months with reelection capability
 
-**Liquidity Treasure Pool**
+**Liquidity Treasure Pool Distribution**
+60% StableCoins Staking fund for montly payments only with a interest rate to all members
+
+20% Polygon or Fanthom Staking fund for monthy payments only with a interest rate to all members
+
+15% Not stakeable or usable in stablecoins
+
+5% In stablecoins for pay a weekly salary to Admin Members over a year
+
+The comision generate in the tokenization data and data layers like permaweb are for the liquidity pool and make schooling cheaper in the medium term
 
 
 **Votes**
@@ -34,4 +45,8 @@ Reelection of an Honoris Admin member for the another Admin Members
 If there are less than five members, reelection is automatic
 
 
+**ERC 20 token**
+
+
+**Treasure Funding**
 
