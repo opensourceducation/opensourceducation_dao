@@ -11,7 +11,7 @@ People with background in edtech, tech articles or videos and/or sporadic contri
 
 Also the condecorate NFT, you have access to an optional incentive, a montly interest rate of the liquidity treasure in staking of polygon and stablecoins divided for all members. You can activate or deactivate this benefit when you want it.
 
-## HONORIS ADMIN: Honoris members with a intrinsic motivation to contribute like a founder or a very usually
+## HONORIS ADMIN: Honoris members with a intrinsic motivation to contribute very often or like a founder
 
 If more than 70% of Admin members are in agreement, the new Honoris Admin have access to the next incentives:
 

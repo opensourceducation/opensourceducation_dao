@@ -27,7 +27,7 @@ contract OpensourceducationMembers {
   }
 
   modifier isAnAdminMember(){
-    require(isAdminMember[msg.sender] == true, "This transaction require to a Admin member to be succesfull");
+    require(isAdminMember[msg.sender] == true, "This transaction require to an Admin member to be succesfull");
     _;
   }
 }
