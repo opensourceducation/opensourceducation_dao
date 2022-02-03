@@ -16,7 +16,7 @@ contract OpensourceducationMembers {
   mapping(address => bool) private memberVote;
   mapping(address => Member) private proposedMembers;
 
-  constructor(string memory _nameOrNickName){
+  constructor(string calldata _nameOrNickName){
     isAdminMember[msg.sender] = true;
     isMember[msg.sender] = true;
     Member storage member = members[msg.sender];
@@ -27,7 +27,7 @@ contract OpensourceducationMembers {
     recivePaymentsAddress.push(msg.sender);
   }
 
-  function getMember(address member) public view {
+  function getMember(address calldata member) public view {
     return members[member]
   }
 

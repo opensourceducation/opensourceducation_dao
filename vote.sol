@@ -7,13 +7,21 @@ import './members.sol';
 contract Vote is OpensourceducationMembers {
 
   mapping(address => bool) private votes;
-  int trueVotes;
-  int falseVotes;
+  uint trueVotes;
+  uint falseVotes;
 
-  function vote(){
-
+  function vote(bool calldata myVote)public isAdminMember {
+    votes[msg.sender] = myVote;
+    if(myVote == true){
+      trueVotes++;
+    } else {
+      falseVotes--;
+    }
   }
 
+  function createHonorisVotation(){}
+
+  function createAdminVotation(){}
 
 
 }
