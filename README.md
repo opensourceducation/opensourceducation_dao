@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/44916598?s=96&v=4" alt="opensourceducation dao"/>
-  <p>Smart Contracts Protocol for create the DAO</p>
+  <p align="center">Smart Contracts Protocol for create the DAO</p>
 </p>
 
 

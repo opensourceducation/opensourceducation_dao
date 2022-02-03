@@ -19,6 +19,12 @@ contract OpensourceducationMembers {
   constructor(string memory _nameOrNickName){
     isAdminMember[msg.sender] = true;
     isMember[msg.sender] = true;
+    Member storage member = members[msg.sender];
+    member.nameOrNickName = _nameOrNickName;
+    member.memberType = "Honoris Admin";
+    member.recivePayments = true;
+    reciveStakingPaymentsAddress.push(msg.sender);
+    recivePaymentsAddress.push(msg.sender);
   }
 
   function getMember(address member) public view {
