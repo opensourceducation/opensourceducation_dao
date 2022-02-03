@@ -3,18 +3,23 @@
   <p align="center">Smart Contracts Protocol for create the DAO</p>
 </p>
 
+<br/>
 
+<hr/>
 
 # OpensourceducationMembers
 
 There are two types of members: 
 
+<br/>
 
 ## HONORIS: The members that after gain enough votes amount being a proposed member receive a non transfer NFT(ERC-721)
 
 People with background in edtech, tech articles or videos and/or sporadic contributions to opensourceducation.
 
 Also the condecorate NFT, you have access to an optional incentive, a montly interest rate of the liquidity treasure in staking of polygon and stablecoins divided for all members. You can activate or deactivate this benefit when you want it.
+
+<br/>
 
 ## HONORIS ADMIN: Honoris members with a intrinsic motivation to contribute very often or like a founder
 
@@ -25,6 +30,10 @@ Inmediatly access to montly interest rate of the liquidity treasure in staking o
 5% of the total supply dedicated to support divided in twelve months for all Admin members
 
 The admin state only lasts 3 months with reelection capability
+
+<br/>
+
+<hr/>
 
 # Liquidity Treasure Pool Distribution
 60% StableCoins Staking fund for montly payments only with a interest rate to all members
@@ -37,6 +46,9 @@ The admin state only lasts 3 months with reelection capability
 
 The comision generate in the tokenization data and data layers like permaweb are for the liquidity pool and make schooling cheaper in the medium term
 
+<br/>
+
+<hr/>
 
 # Votes
 There are voting process for:
@@ -47,9 +59,15 @@ Reelection of an Honoris Admin member for the another Admin Members
 
 If there are less than five members, reelection is automatic
 
+<br/>
+
+<hr/>
 
 # ERC 20 token
 
+<br/>
+
+<hr/>
 
 # Treasure Funding
 
